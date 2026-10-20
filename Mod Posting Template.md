@@ -6,5 +6,4 @@ DEPENDENCIES: [Winters Core Module](<https://github.com/LadyWinters/BDCC-Winters
 DESCRIPTION: *
 COMPATABILITY: *
 CHANGELOG: *
-NOTES: @ me or make a thread if anything is broken.
-There is a [Kofi link](<https://ko-fi.com/averyshobbies>) in my discord Bio if anyone wants to show financial appreciation for my time.
+NOTES: @ me or make a thread if anything is broken. There is a [Kofi link](<https://ko-fi.com/averyshobbies>) in my discord Bio if anyone wants to show financial appreciation for my time.
