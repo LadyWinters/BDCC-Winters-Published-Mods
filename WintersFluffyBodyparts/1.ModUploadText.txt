@@ -1,0 +1,13 @@
+NAME: Winters Fluffy Bodyparts
+AUTHOR: Avery Winters
+CATEGORY: Bodyparts
+MOD VERSION: 2.6
+CREDIT: Code Improvements: Selinoccino
+DEPENDENCIES: [Winters Core Module](<https://github.com/LadyWinters/BDCC-Winters-Published-Mods/tree/main/1.WintersCoreModule>)
+DESCRIPTION: . Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts and dragons will spawn with scaled by default. 
+COMPATABILITY: Hypertus, Bodywriting, RAT_Archetypes
+CHANGELOG: <******>
+NOTE: @ me or make a thread if anything is broken. There is a [Kofi link](<https://ko-fi.com/averyshobbies>) in my discord Bio if anyone wants to show financial appreciation for my time.
+
+NOTE: Adds archetypes handled by RAT_Archetypes
+https://discord.com/channels/972105858932678656/1021686418512289792/1565733716746043534

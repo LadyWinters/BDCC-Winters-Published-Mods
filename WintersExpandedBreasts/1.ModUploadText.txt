@@ -1,0 +1,11 @@
+NAME: Winters Expanded Breasts
+AUTHOR: Avery Winters & Selinoccino
+CATEGORY: Bodyparts
+MOD VERSION: 1.5
+CREDIT: Assets: Anonymous Contributor
+DEPENDENCIES: [Winters Core Module](<https://github.com/LadyWinters/BDCC-Winters-Published-Mods/tree/main/1.WintersCoreModule>) &  [Rodent Utilities](<https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.1.zip>)
+DESCRIPTION: Expands the base BDCC Breasts with some new options Nipples (+Inverted) and Puffy Nipples (+Inverted). Should replace base breasts during Dynamic NPC generation
+COMPATIBILITY: Hypertus, WintersFluffyBodyParts
+CHANGELOG: <******>
+NOTE: @ me or make a thread if anything is broken.
+There is a [Kofi link](<https://ko-fi.com/averyshobbies>) in my discord Bio if anyone wants to show financial appreciation for my time.

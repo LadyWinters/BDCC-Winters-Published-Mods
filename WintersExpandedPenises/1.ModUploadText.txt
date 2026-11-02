@@ -1,0 +1,12 @@
+NAME: Winters Expanded Penises
+AUTHOR: Avery Winters & Selinoccino
+CATEGORY: Bodyparts 
+MOD VERSION: 1.2
+CREDIT:  Selinoccino designed automatic compatibility patches for both BallsExtra & Hypertus in addition to the mod options.
+DEPENDENCIES: [Winters Core Module](<https://github.com/LadyWinters/BDCC-Winters-Published-Mods/tree/main/1.WintersCoreModule>) &  [Rodent Utilities](<https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.1.zip>)
+DESCRIPTION: A grouped mod of all the penises I am maintaining. Includes mod options for disabling penises to customise what's available.
+COMPATIBILITY: BallsExtra, Hypertus, RodentUtils
+This mod replaces all my other penis mods and should not be ran alongside them.
+CHANGELOG: <********>
+NOTES: @ me or make a thread if anything is broken.
+There is a [Kofi link](<https://ko-fi.com/averyshobbies>) in my discord Bio if anyone wants to show financial appreciation for my time.

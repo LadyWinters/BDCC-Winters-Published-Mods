@@ -1,0 +1,10 @@
+NAME: Winters Expanded Base Species
+AUTHOR: Avery Winters
+CATEGORY: Bodyparts
+MOD VERSION: 1.6
+CREDIT: Code Improvements: Selinoccino, Assets: Anon
+DEPENDENCIES: [Winters Core Module](<https://github.com/LadyWinters/BDCC-Winters-Published-Mods/tree/main/1.WintersCoreModule>)
+DESCRIPTION: A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!
+CHANGELOG: <******>
+NOTES: @ me or make a thread if anything is broken.
+There is a [Kofi link](<https://ko-fi.com/averyshobbies>) in my discord Bio if anyone wants to show financial appreciation for my time.
