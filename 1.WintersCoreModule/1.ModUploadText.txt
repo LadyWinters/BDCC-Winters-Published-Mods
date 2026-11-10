@@ -1,10 +1,13 @@
-NAME: Winters Core Module
-AUTHOR: Avery Winters & Selinoccino
-CATEGORY: Modders Resource (Dependency for all Updated Winters Mods)
-MOD VERSION: 1.8
-DEPENDENCIES: N/A
-DESCRIPTION: This contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.
-COMPATIBILITY: Required for all Updated Winters Mods does nothing on its own.
-CHANGELOG: <******>
-NOTES: @ me or make a thread if anything is broken.
+*NAME:* Winters Core Module V2.0
+*AUTHOR:* Avery Winters & Selinoccino
+*CATEGORY:* Modders Resource (Dependency for all Updated Winters Mods)
+*DEPENDENCIES:* N/A
+*COMPATIBILITY:* Required for all Updated Winters Mods does nothing on its own.
+*CHANGELOG:* Updated for new ExpandedPenis updates
+*DESCRIPTION:* 
+This mod, like all my mods, is 100% written with care; no LLMs were consulted or used in the creation of this mod. 
+
+This contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.
+
+*NOTES:* @ me or make a thread if anything is broken.
 There is a [Kofi link](<https://ko-fi.com/averyshobbies>) in my discord Bio if anyone wants to show financial appreciation for my time.
