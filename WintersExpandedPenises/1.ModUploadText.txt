@@ -1,12 +1,15 @@
-NAME: Winters Expanded Penises
-AUTHOR: Avery Winters & Selinoccino
-CATEGORY: Bodyparts 
-MOD VERSION: 1.2
-CREDIT:  Selinoccino Has designed automatic compatability patches for both BallsExtra & Hypertus in addition to the mod options. ThermalDragon has provided the fluffy sheathes and helped with assets.
-DEPENDENCIES: [Winters Core Module](<https://github.com/LadyWinters/BDCC-Winters-Published-Mods/tree/main/1.WintersCoreModule>) &  [Rodent Utilities](<https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.1.zip>)
-DESCRIPTION: This mod, like all my mods, is 100% written with care; no LLMs were consulted or used in the creation of this mod. Expands the list of available penises in character select. Includes mod options for disabling penises to customise whats available.
-COMPATIBILITY: BallsExtra, Hypertus, RodentUtils
+*NAME:* Winters Expanded Penises V1.4
+*AUTHOR:* Avery Winters & Selinoccino
+*CATEGORY:* Bodyparts 
+*DEPENDENCIES:* [Winters Core Module](<https://github.com/LadyWinters/BDCC-Winters-Published-Mods/tree/main/1.WintersCoreModule>) &  [RodentUtilities](<https://github.com/Alexofp/BDCCMods/blob/4faa3fcff25eccd4d9d18167715d499b009ba41a/mods/RodentUtils_v0.9.5.zip>)
+*CREDIT:*  Selinoccino designed automatic compatibility patches for both BallsExtra & Hypertus in addition to the mod options. @thermaldragon9656 designed the new sheath assets
+*COMPATIBILITY:* BallsExtra, Hypertus
 This mod replaces all my other penis mods and should not be ran alongside them.
-CHANGELOG: <********>
-NOTES: @ me or make a thread if anything is broken.
+*CHANGELOG:* updated sheathes to a new design
+*DESCRIPTION:*
+This mod, like all my mods, is 100% written with care; no LLMs were consulted or used in the creation of this mod.
+
+Expands the list of available penises in character select. Includes mod options for disabling penises to customise whats available.
+
+*NOTES:* @ me or make a thread if anything is broken.
 There is a [Kofi link](<https://ko-fi.com/averyshobbies>) in my discord Bio if anyone wants to show financial appreciation for my time.
