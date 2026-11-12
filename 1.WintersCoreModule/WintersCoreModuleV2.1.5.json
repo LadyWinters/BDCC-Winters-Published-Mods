@@ -2,6 +2,6 @@
     "name": "WintersCoreModule",
     "description": "DEPENDENCY: [url=https://github.com/Alexofp/BDCCMods/blob/main/mods/RodentUtils_v0.9.6.zip]RodentUtilities[/url] This mod, like all my mods, is 100% written with care; no LLMs were consulted or used in the creation of this mod. This contains resources my mods use in common. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods. @ me or make a thread if anything is broken. There is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] in my discord Bio if anyone wants to show financial appreciation for my time.",
     "author": "Avery Winters & Selinoccino",
-    "modversion": "2.1",
+    "modversion": "2.1.5",
     "gameversion": "*"
 }
